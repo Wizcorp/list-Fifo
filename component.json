@@ -1,0 +1,9 @@
+{
+	"name": "FifoList",
+	"repo": "Wizcorp/list-Fifo",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
